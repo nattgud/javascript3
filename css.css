@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+}
+img {
+	width:	200px;
+	height:	200px;
+	margin: 0px 50px;
+	opacity: 0.4;
+	transition: opacity 200ms, outline 200ms;
+}
+#player img:hover {
+	opacity: 1;
+	cursor: pointer;
+}
+table {
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
